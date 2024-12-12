@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/sakshibansal05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sakshibansal05/LeetCode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sakshibansal05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
