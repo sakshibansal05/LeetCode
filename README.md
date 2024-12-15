@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sakshibansal05/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshibansal05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sakshibansal05/LeetCode/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/sakshibansal05/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sakshibansal05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sakshibansal05/LeetCode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/sakshibansal05/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshibansal05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
