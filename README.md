@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sakshibansal05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sakshibansal05/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sakshibansal05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sakshibansal05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sakshibansal05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshibansal05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sakshibansal05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sakshibansal05/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sakshibansal05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshibansal05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sakshibansal05/LeetCode/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/sakshibansal05/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sakshibansal05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshibansal05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sakshibansal05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshibansal05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshibansal05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshibansal05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshibansal05/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sakshibansal05/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
