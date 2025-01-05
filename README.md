@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sakshibansal05/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/sakshibansal05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2047-find-a-peak-element-ii](https://github.com/sakshibansal05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sakshibansal05/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshibansal05/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/sakshibansal05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## String
 |  |
 | ------- |
