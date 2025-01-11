@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/sakshibansal05/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2047-find-a-peak-element-ii](https://github.com/sakshibansal05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/sakshibansal05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sakshibansal05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sakshibansal05/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/sakshibansal05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
