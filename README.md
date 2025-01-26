@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sakshibansal05/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sakshibansal05/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/sakshibansal05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/sakshibansal05/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2047-find-a-peak-element-ii](https://github.com/sakshibansal05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sakshibansal05/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sakshibansal05/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/sakshibansal05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/sakshibansal05/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sakshibansal05/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/sakshibansal05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sakshibansal05/LeetCode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakshibansal05/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakshibansal05/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshibansal05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
